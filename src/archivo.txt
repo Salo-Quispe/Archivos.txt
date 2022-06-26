@@ -1,0 +1,20 @@
+PIRATAS DEL CARIBE
+2003-2017
+5
+accion,fantasia,aventura
+HARRY POTTER
+2001 - 2011
+8
+ciencia ficcion
+JURASSIC PARK
+1993 - 2022
+7
+ciencia ficcion
+ALIEN
+1979 - 2017
+6
+ciencia ficción,terror
+RECIDENT EVIL
+2002 - 2016
+6
+accion, ciencia ficcion, terror
